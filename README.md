@@ -1,79 +1,112 @@
-
-<h1 align="center">Hello there, I'm Idriss JEAIDI 👋</h1>
-<h3 align="center">Double MSc Student passionate about Machine Learning and Finance.</h3>
+<h1 align="center">Hi, I'm Idriss JEAIDI 👋</h1>
+<h3 align="center">Data Scientist & AI Engineer — NLP, Multimodal, RAG, Applied ML</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/theo-gachet/">
-    <img src="https://img.shields.io/badge/LinkedIn-theogachet-white?style=flat&logo=linkedin&labelColor=blue">
+  <a href="https://www.linkedin.com/in/idrisjeaidi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Idriss%20JEAIDI-white?style=flat&logo=linkedin&labelColor=blue">
   </a>
-  <a href="mailto:theo.gachet.pro@outlook.fr">
-    <img src="https://img.shields.io/badge/Email-theo.gachet.pro@outlook.fr-orange">
+  <a href="mailto:idriss.jeaidi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-idriss.jeaidi@gmail.com-orange">
   </a>
-  <a href="https://theogachet.com">
-    <img src="https://img.shields.io/badge/Personal%20Portfolio-theogachet.com-red">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-red">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="neon-banner" />
+  <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="banner" />
 </p>
 
+---
 
 ### 👨‍💻 About Me
-Currently working as an AI intern at the European Space Agency (ESA), I am a French student pursuing a Double Master in Machine Learning at Polytechnique Montréal (Canada) after 2 years at École des Mines de Saint-Étienne (France). Passionate about computer science and mathematics, I'm driven to explore and develop AI solutions that transform our technological interactions and expand the frontiers of space exploration. For more details, you can view my full resume [here](http://theogachet.com/resume-theo-gachet).
 
-<!--
-### 📚 Projects
+I’m a Data Scientist & AI Engineer, graduate from **Polytechnique Montréal** and **École des Mines**, specialized in **NLP, Multimodal AI, RAG systems and applied machine learning**.
 
-- **Text Prediction with TESS**: A human-machine interface providing intelligent word suggestions for incomplete inputs.
-- **Machine Translation with Transformer**: Portuguese-to-English translation using the Transformer model.
-- **Machine Translation with Attention**: Seq2Seq model with attention mechanisms for French to English translation.
-- **Homemade SSD**: Building a custom Single Shot MultiBox Detector for object detection.
-- **Time Series Analysis on Wafers**: Collaborative project aiming to analyze material removal rates from time series data.
-- **Drone Simulator**: Bio-robot replicating fly vision and behavior using biomimicry.
-- **Digit Classifier for 404 CTF Hackathon**: AI-based digit classifier to decrypt a code during a hackathon.
-- **DNA Sequencing**: Predicting genetic variation impacts on gene regulation in eukaryotic cells.
-- **Pneumonia Diagnosis with CNN**: Using Convolutional Neural Networks for classifying pneumonia in medical scans.
-- **Robot PIC18**: An autonomous robot that follows objects, powered by a PIC18 microcontroller.
-- **Challenge Optimization in Python**: Solving surveillance optimization problems with various algorithms.
-- **Challenge Optimization in Julia**: Using Julia to optimize surveillance point placement.
-- **House Pricing Prediction**: A machine learning model predicting real estate prices in France.
-- **Robot Antarctica**: Developing a rover for autonomous exploration in Antarctic conditions.
-- **Trivia Game Multi-Threaded**: Creating a multi-threaded trivia game application.
-  
-### 🏆 Achievements
+I’ve worked on:
+- 📊 **Large-scale NLP pipelines** for analyst report monitoring at **Dassault Systèmes**
+- 🛰️ **Vision-Language Models** for satellite imagery at **Thales**
+- 🏭 **Industrial NLP & BI systems** at **Liebherr Aerospace**
+- 📱 Full-stack & mobile apps (Flutter, Spring, Unity)
 
-- **High School Scientific Diploma**: 🥇 1st in France, Mark: 20.3/20
-- **Python Optimization Contest**: 🥇 1st among 95+ students
-- **3D Modeling Competition**: 🥇 1st, awarded by the Robotics Association
-- **Robotics Hackathon**: 🥈 2nd, in collaboration with A REM & ST Microelectronics
-- **École Polytechnique Summer Camp**: Selected among 50 students from all over France
-- **National Chemistry Olympiads**: Finalist during High School
--->
+I can implement **end-to-end systems**: from data ingestion → ML models → deployment → dashboards.
+
+---
+
+### 🧠 Main Interests
+
+- Retrieval-Augmented Generation (RAG)
+- Multimodal models (Vision + Language)
+- NLP at scale
+- ML systems & pipelines
+- Applied AI in industry
+
+---
+
+### 💼 Internships & Work Experience
+
+**🛰️ Thales — AI Research Scientist Intern (2024)**  
+- Built a **Vision-Language Model** for satellite images (LLaVA + LLaMA)  
+- Trained on **2× 8×A100 clusters (Slurm)**  
+- LoRA fine-tuning, Dockerized, custom benchmarks  
+- 📈 **Outperformed SOTA on 2 remote sensing benchmarks**
+
+**🏢 Dassault Systèmes — Data Scientist Intern (2025)**  
+- Built an **end-to-end RAG + NLP monitoring system** for analyst reports  
+- Pipeline: scraping → parsing → embeddings → LLM analysis → dashboard  
+- Stack: HuggingFace, LangChain, LLaMA 3, EmbeddingGemma, Chroma, BeautifulSoup  
+
+**✈️ Liebherr Aerospace — Data Scientist Intern (2023)**  
+- NLP system for **topic modeling & sentiment analysis** over 4000 reports  
+- Built Power BI dashboard for executives  
+- 🏆 **Winner of Liebherr Innovation Award**
+
+**Other internships**  
+- MedVitale (Flutter app, tech lead)  
+- SQLI (Spring Boot + PostgreSQL web app)  
+- MIMBUS (Unity / C# VR simulator)
+
+---
+
+### 🚀 Some Projects
+
+- 🏆 **AWS & National Bank Datathon (3rd place)** — RAG-based market analyst assistant  
+- 🤖 **Multi-Agent Reinforcement Learning** (tutorial + implementations)  
+- 🎮 **Avalam AI & Connect Four AI** (Alpha-Beta, heuristics, adversarial search)  
+- 🧠 **Transformer from scratch** (TensorFlow & PyTorch)  
+- 🛰️ **YOLOv9 + ByteTrack multi-object tracking**  
+- 📱 **MedVitale** — Full mobile app with Flutter + Firebase  
+- 🧪 **Ubisoft Data Science Technical Test Notebook**
+
+(See pinned repositories 👇)
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-HuggingFace-yellow?style=flat-square&logo=huggingface">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/-Slurm-black?style=flat-square">
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+  <br/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java">
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter">
 </p>
 
-<!--
-**TheoGachet/TheoGachet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 idriss.jeaidi@gmail.com  
+- 💼 LinkedIn: [https://www.linkedin.com/in/idrisjeaidi/](https://www.linkedin.com/in/idriss-jeaidi-1279501ba/)  
+
+---
+
