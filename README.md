@@ -43,31 +43,6 @@ I can implement **end-to-end systems**: from data ingestion → ML models → de
 
 ---
 
-### 💼 Internships & Work Experience
-
-**🛰️ Thales — AI Research Scientist Intern (2024)**  
-- Built a **Vision-Language Model** for satellite images (LLaVA + LLaMA)  
-- Trained on **2× 8×A100 clusters (Slurm)**  
-- LoRA fine-tuning, Dockerized, custom benchmarks  
-- 📈 **Outperformed SOTA on 2 remote sensing benchmarks**
-
-**🏢 Dassault Systèmes — Data Scientist Intern (2025)**  
-- Built an **end-to-end RAG + NLP monitoring system** for analyst reports  
-- Pipeline: scraping → parsing → embeddings → LLM analysis → dashboard  
-- Stack: HuggingFace, LangChain, LLaMA 3, EmbeddingGemma, Chroma, BeautifulSoup  
-
-**✈️ Liebherr Aerospace — Data Scientist Intern (2023)**  
-- NLP system for **topic modeling & sentiment analysis** over 4000 reports  
-- Built Power BI dashboard for executives  
-- 🏆 **Winner of Liebherr Innovation Award**
-
-**Other internships**  
-- MedVitale (Flutter app, tech lead)  
-- SQLI (Spring Boot + PostgreSQL web app)  
-- MIMBUS (Unity / C# VR simulator)
-
----
-
 ### 🚀 Some Projects
 
 - 🏆 **AWS & National Bank Datathon (3rd place)** — RAG-based market analyst assistant  
@@ -76,7 +51,6 @@ I can implement **end-to-end systems**: from data ingestion → ML models → de
 - 🧠 **Transformer from scratch** (TensorFlow & PyTorch)  
 - 🛰️ **YOLOv9 + ByteTrack multi-object tracking**  
 - 📱 **MedVitale** — Full mobile app with Flutter + Firebase  
-- 🧪 **Ubisoft Data Science Technical Test Notebook**
 
 (See pinned repositories 👇)
 
