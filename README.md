@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-idriss.jeaidi@gmail.com-orange">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-https://Digidix28.github.io-red">
+    <img src="https://img.shields.io/badge/[Portfolio](https://Digidix28.github.io)-red">
   </a>
 </p>
 
