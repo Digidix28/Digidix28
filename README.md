@@ -2,14 +2,14 @@
 <h3 align="center">Data Scientist & AI Engineer — NLP, Multimodal, RAG, Applied ML</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/idrisjeaidi/">
+  <a href="https://www.linkedin.com/in/idriss-jeaidi-1279501ba/">
     <img src="https://img.shields.io/badge/LinkedIn-Idriss%20JEAIDI-white?style=flat&logo=linkedin&labelColor=blue">
   </a>
   <a href="mailto:idriss.jeaidi@gmail.com">
     <img src="https://img.shields.io/badge/Email-idriss.jeaidi@gmail.com-orange">
   </a>
   <a href="https://digidix28.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-digidix28.github.io-red?style=flat">
+  <img src="https://img.shields.io/badge/Portfolio-website-red?style=flat">
 </a>
 
 </p>
