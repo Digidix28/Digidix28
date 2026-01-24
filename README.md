@@ -8,9 +8,10 @@
   <a href="mailto:idriss.jeaidi@gmail.com">
     <img src="https://img.shields.io/badge/Email-idriss.jeaidi@gmail.com-orange">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-[https://Digidix28.github.io](https://Digidix28.github.io)-red">
-  </a>
+  <a href="https://digidix28.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-digidix28.github.io-red?style=flat">
+</a>
+
 </p>
 
 <p align="center">
